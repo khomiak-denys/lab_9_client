@@ -1,0 +1,21 @@
+# ninja log v6
+32	162	7547963084067077	client_autogen/timestamp	3d6d71c4ad6d4e0b
+32	162	7547963084067077	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/timestamp	3d6d71c4ad6d4e0b
+550	2490	7547909875528138	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	b26fb7df93c0d63c
+32	162	7547963084067077	client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+32	162	7547963084067077	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+141	3467	7547962816077896	CMakeFiles/client.dir/mainwindow.cpp.obj	c5ca5a77bda20cad
+554	2411	7547909875558137	CMakeFiles/client.dir/main.cpp.obj	2148434745ce7ed4
+3467	3658	7547962849339121	client.exe	572174b44647e76a
+34	166	7547963257890697	client_autogen/timestamp	3d6d71c4ad6d4e0b
+34	166	7547963257890697	client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+34	166	7547963257890697	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/timestamp	3d6d71c4ad6d4e0b
+34	166	7547963257890697	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+166	3531	7547963259213201	CMakeFiles/client.dir/mainwindow.cpp.obj	c5ca5a77bda20cad
+3531	3721	7547963292859125	client.exe	572174b44647e76a
+39	162	7547965658710705	client_autogen/timestamp	3d6d71c4ad6d4e0b
+39	162	7547965658710705	client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+39	162	7547965658710705	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/timestamp	3d6d71c4ad6d4e0b
+39	162	7547965658710705	C:/Users/Denys/Documents/Labs/Labs OS/Lab 9/client/client/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	3d6d71c4ad6d4e0b
+163	3388	7547965659953886	CMakeFiles/client.dir/mainwindow.cpp.obj	c5ca5a77bda20cad
+3388	3571	7547965692204384	client.exe	572174b44647e76a
